@@ -1,4 +1,0 @@
-diff a/.gitattributes b/.gitattributes	(rejected hunks)
-@@ -0,0 +1,2 @@
-+/mvnw text eol=lf
-+*.cmd text eol=crlf
